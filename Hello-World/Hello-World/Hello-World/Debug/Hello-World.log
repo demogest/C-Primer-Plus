@@ -1,2 +1,3 @@
 ﻿  Hello-World.cpp
+c:\users\lenovo\source\c-primer-plus\hello-world\hello-world\hello-world\hello-world.cpp(15): warning C4018: “<”: 有符号/无符号不匹配
   Hello-World.vcxproj -> C:\Users\lenovo\source\C-Primer-Plus\Hello-World\Hello-World\Debug\Hello-World.exe
